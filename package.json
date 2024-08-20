@@ -1,0 +1,12 @@
+{
+  "name": "006-object-p1",
+  "version": "1.0.0",
+  "description": "We have a table below:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Natt Korat",
+  "license": "ISC",
+  "type": "module"
+}
