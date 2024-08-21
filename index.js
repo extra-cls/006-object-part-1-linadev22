@@ -21,7 +21,7 @@ users.push(
 
 const find_user = id => {
     // finish this function here
-    const user = users.find(user => user.id === id);
+    const user = users.find(user => user.id == id);
     return user? user: null;
    
 
@@ -32,6 +32,7 @@ const find_user = id => {
 
 // you can test your code here
 console.log(find_user(11));
+console.log(find_user(2));
 
 
 
